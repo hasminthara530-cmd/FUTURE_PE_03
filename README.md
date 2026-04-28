@@ -1,7 +1,7 @@
-#Task 3: AI SEO Blog & Content Cluster Generator
+# Task 3: AI SEO Blog & Content Cluster Generator
 
 
-##1. Business Profile:
+## 1. Business Profile:
 
 Business Type: Digital Marketing Agency
 
@@ -17,7 +17,7 @@ Target Audience:
 
 Small business owners, startups, and local brands looking for digital marketing services in Chennai.
 
-##2. Structured Prompt Design
+## 2. Structured Prompt Design
 
 Master Prompt
 
@@ -51,7 +51,7 @@ Act as an SEO content strategist and blog writer for a digital marketing agency 
 
 Keep the tone professional, clear, and helpful. Avoid keyword stuffing.
 
-##3. SEO Content Pack
+## 3. SEO Content Pack
 
 3.1 Pillar Blog
 
@@ -219,7 +219,7 @@ Focus on local business problems
 
 Optimize for “near me” type searches
 
-##4. Tools Used
+## 4. Tools Used
 
 AI Tool: ChatGPT
 
@@ -229,7 +229,7 @@ SEO Research Sources:
      
         Google Trends
      
-##5. Outcome
+## 5. Outcome
 
 This project demonstrates how AI and prompt engineering can be used to create structured, SEO-optimized content clusters for business websites.
 
